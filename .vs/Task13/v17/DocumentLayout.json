@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\Desktop\\Code Academy\\Task13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9592073F-C6D6-4FBB-9B2D-BC7DA2F5BF94}|Task13\\Task13.csproj|c:\\users\\pc\\desktop\\code academy\\task13\\task13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9592073F-C6D6-4FBB-9B2D-BC7DA2F5BF94}|Task13\\Task13.csproj|solutionrelative:task13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D70275-6037-472F-9FBB-10AC0C48C0C6}|Core\\Core.csproj|c:\\users\\pc\\desktop\\code academy\\task13\\core\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D70275-6037-472F-9FBB-10AC0C48C0C6}|Core\\Core.csproj|solutionrelative:core\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D70275-6037-472F-9FBB-10AC0C48C0C6}|Core\\Core.csproj|c:\\users\\pc\\desktop\\code academy\\task13\\core\\models\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D70275-6037-472F-9FBB-10AC0C48C0C6}|Core\\Core.csproj|solutionrelative:core\\models\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D70275-6037-472F-9FBB-10AC0C48C0C6}|Core\\Core.csproj|c:\\users\\pc\\desktop\\code academy\\task13\\core\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D70275-6037-472F-9FBB-10AC0C48C0C6}|Core\\Core.csproj|solutionrelative:core\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Code Academy\\Task13\\Core\\Models\\Helper.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Helper.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Code Academy\\Task13\\Core\\Models\\Helper.cs",
+              "RelativeToolTip": "Core\\Models\\Helper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:21:04.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Code Academy\\Task13\\Core\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Code Academy\\Task13\\Core\\Models\\Blog.cs",
+              "RelativeToolTip": "Core\\Models\\Blog.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAIAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:35:35.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Code Academy\\Task13\\Core\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Code Academy\\Task13\\Core\\Models\\Comment.cs",
+              "RelativeToolTip": "Core\\Models\\Comment.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:29:44.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Code Academy\\Task13\\Task13\\Program.cs",
+              "RelativeDocumentMoniker": "Task13\\Program.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Code Academy\\Task13\\Task13\\Program.cs",
+              "RelativeToolTip": "Task13\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAC8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:27:41.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
